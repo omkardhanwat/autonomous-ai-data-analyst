@@ -1,0 +1,27 @@
+order_date,region,category,product,revenue,quantity,profit
+2025-01-04,West,Electronics,Laptop,1200,2,180
+2025-01-11,East,Furniture,Chair,250,5,45
+2025-01-15,West,Electronics,Phone,900,3,135
+2025-02-02,North,Furniture,Desk,700,2,105
+2025-02-10,South,Office Supplies,Paper,80,20,16
+2025-02-18,East,Electronics,Laptop,1800,3,270
+2025-03-03,North,Electronics,Phone,600,2,90
+2025-03-15,West,Furniture,Desk,1100,3,165
+2025-04-06,South,Office Supplies,Pen,50,25,10
+2025-04-20,East,Electronics,Phone,1200,4,180
+2025-05-01,West,Furniture,Chair,500,10,90
+2025-05-12,North,Electronics,Laptop,2400,4,360
+2025-06-09,South,Furniture,Desk,900,2,135
+2025-06-21,East,Office Supplies,Paper,120,30,24
+2025-07-02,West,Electronics,Phone,300,1,45
+2025-07-19,North,Furniture,Chair,200,4,36
+2025-08-08,South,Electronics,Laptop,1200,2,180
+2025-08-16,East,Furniture,Desk,650,2,98
+2025-09-04,West,Office Supplies,Pen,100,50,20
+2025-09-22,North,Electronics,Phone,150,1,23
+2025-10-03,South,Furniture,Chair,350,7,63
+2025-10-18,East,Electronics,Laptop,3000,5,450
+2025-11-07,West,Furniture,Desk,1400,4,210
+2025-11-23,North,Office Supplies,Paper,60,15,12
+2025-12-02,South,Electronics,Phone,750,3,113
+2025-12-17,East,Furniture,Chair,400,8,72
