@@ -73,10 +73,3 @@ autonomous_ai_data_analyst/
 └── sample_data/
     └── sales.csv
 ```
-
-## Next development milestones
-1. Add richer intent-to-operation mapping and robust column selection.
-2. Add PostgreSQL read-only SQL tool.
-3. Add PDF policy/report RAG with FAISS.
-4. Add evaluation dataset and regression tests.
-5. Add authentication, file limits, and deployment hardening.
